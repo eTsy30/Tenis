@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#canva{
+    display: block; 
+    margin: 0 auto;
+    background-color: #deb887;
+   
+}
